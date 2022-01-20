@@ -1,5 +1,5 @@
     {
-        "name": "custom/productlist",
+        "name": "magento/modulename",
         "description": "Example using 'areas' - displays application state including a list of loaded modules",
         "require": {
             "magento/framework": "103.0.*"
@@ -10,7 +10,7 @@
             "map": [
                 [
                     "*",
-                    "Custom/Productlist"
+                    "Magento/Modulename"
                 ]
             ]
         },
